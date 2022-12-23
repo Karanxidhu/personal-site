@@ -50,13 +50,13 @@ hr{
 }
 .top-cloud {
   position: absolute;
-  right: 30%;
-  top: 6%;
+  right: 450px;
+  top: 100px;
 }
 .bottom-cloud {
   position: absolute;
-  top: 62%;
-  left: 30%;
+  top: 600px;
+  left: 500px;
 }
 .profile-pic{
   margin: 100px auto 50px;
